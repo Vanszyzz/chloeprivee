@@ -1,0 +1,1 @@
+import{t as e,z as t}from"./index-DnRkbJ1S.js";var n=t(),r=`https://c.opfourpro.info/8/js/script.js?id=FYVo4`;function i(){return(0,n.jsx)(e,{scriptUrlOverride:r})}export{i as component};
